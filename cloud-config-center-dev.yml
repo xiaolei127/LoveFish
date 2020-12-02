@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: cloud-provider-payment8
+config:
+  info: fndisanfidsaifndsaifnidasnfdasnfkdsn
